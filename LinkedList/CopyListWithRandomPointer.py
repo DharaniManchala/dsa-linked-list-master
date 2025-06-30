@@ -69,3 +69,25 @@ copied_head = l1.copyListWithRandomPointer(l1.head)
 # 🖨️ Print the copied list
 print("Copied Linked List:")
 l1.printList(copied_head)
+#⏱️ Time Complexity: O(n)
+# Reason: We traverse the linked list 3 times:
+
+# To insert copied nodes
+
+# To update random pointers
+
+# To separate the copied list
+
+# Each traversal is O(n) where n is the number of nodes.
+
+
+# 💾 Space Complexity:
+# Auxiliary Space: O(1)
+
+# We do not use extra data structures like a hashmap.
+
+# Overall Space: O(n)
+
+# Because we create a new list with n nodes.
+
+
