@@ -6,41 +6,39 @@ This repository contains my daily practice of Linked List problems in Python, st
 
 ## 🎯 Objective
 
-To master Linked List data structure from the ground up — covering everything from basic operations to advanced cycle and pointer-based problems — with clean code, edge case handling, and proper time and space complexity analysis.
+To master the Linked List data structure from the ground up — covering everything from basic operations to advanced cycle and pointer-based problems — with clean code, edge case handling, and proper time and space complexity analysis.
 
 ---
 
-## ✅ Topics Covered
+## ✅ Problems Covered
 
-| Step | Problem |
-|------|------------------------------------------------|
-| 01   | Insert at Beginning |
-| 02   | Insert at End |
-| 03   | Delete Node by Value |
-| 04   | Delete Node by Position |
-| 05   | Reverse Linked List (Iterative) |
-| 06   | Reverse Linked List (Recursive) |
-| 07   | Find Middle of Linked List |
-| 08   | Detect Cycle using Floyd’s Algorithm |
-| 09   | Safe Print with Cycle Detection |
-| 10   | Remove Loop from Linked List |
-| 11   | Check if Linked List is Palindrome |
-| 12   | Remove Duplicates from Sorted Linked List |
-| 13   | Find Intersection Point of Two Linked Lists |
-| 14   | Merge Two Sorted Linked Lists |
-| 15   | Merge Two Sorted Lists (Recursive) |
-| 16   | Detect and Remove Loop (Combined) |
-
-> 🔄 Step 17 (Linked List Merge Sort) coming soon...
+- Insert at Beginning
+- Insert at End
+- Delete Node by Value
+- Delete Node by Position
+- Reverse Linked List (Iterative)
+- Reverse Linked List (Recursive)
+- Find Middle of Linked List
+- Detect Cycle using Floyd’s Algorithm
+- Safe Print with Cycle Detection
+- Remove Loop from Linked List
+- Check if Linked List is Palindrome
+- Remove Duplicates from Sorted Linked List
+- Find Intersection Point of Two Linked Lists
+- Merge Two Sorted Linked Lists (Iterative & Recursive)
+- Detect and Remove Loop (Combined)
+- Sort a Linked List using Merge Sort
+- Add Two Numbers (Linked List Digits) – 🏆 Google-Level
 
 ---
 
 ## 🧠 How I Practice
 
 - 💻 Write, test, and debug code manually in VS Code
-- 📚 Focus on time & space complexities
-- 🧪 Use real interview logic and examples
-- 🔁 Push to GitHub daily to track my consistency
+- 🔍 Focus deeply on time and space complexity for each problem
+- 🧪 Use test cases that reflect real interview logic
+- 📘 Maintain clean, readable code with comments
+- 🔁 Push to GitHub daily to track learning consistency
 
 ---
 
@@ -48,25 +46,31 @@ To master Linked List data structure from the ground up — covering everything 
 
 | Date       | Progress |
 |------------|----------|
-| June 27    | Completed insertions, deletions, reverse, cycle detection |
-| June 28    | Palindrome, remove loop, sorted merge, intersection point |
+| June 27    | Insertions, deletions, reverse, cycle detection |
+| June 28    | Palindrome, loop removal, merge lists, intersection |
+| June 29    | Merge Sort  |
+| June 30    | Add Two Numbers implementation |
 
 ---
 
-## 🚀 Upcoming Topics
+## 🚀 Upcoming Topics (Next Phase)
 
-- Sort a Linked List using Merge Sort
-- Add One to a Number Represented as Linked List
-- Clone a Linked List with Random Pointers
-- Flatten a Multi-Level Linked List
+- Copy Linked List with Random Pointer (Meta/Google)
+- Flatten Multi-Level Doubly Linked List
+- Implement LRU Cache (HashMap + Linked List)
+- Reorder Linked List (Leetcode Hard)
+- Rotate Linked List
+- Reverse Nodes in K-Groups
+- Partition List Around a Value
 
 ---
 
 ## 📌 Why This Project Matters
 
-- Strengthens pointer-based logic
-- Builds confidence for whiteboard interviews
-- Reinforces core DSA foundations for product-based companies
+- Reinforces core DSA fundamentals required by top tech companies
+- Builds strong confidence in pointer-based logic
+- Improves whiteboard-style coding for interviews
+- Helps track daily DSA growth and consistency
 
 ---
 
@@ -78,4 +82,5 @@ GitHub: [@DharaniManchala](https://github.com/DharaniManchala)
 
 ---
 
-⭐ Star this repository if you're preparing for tech interviews too. Let’s grow together 🚀
+⭐ Star this repository if you're preparing for tech interviews too.  
+Let’s grow together and aim for Google-level mastery 🚀
