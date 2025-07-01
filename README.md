@@ -29,7 +29,8 @@ To master the Linked List data structure from the ground up — covering everyth
 - Detect and Remove Loop (Combined)
 - Sort a Linked List using Merge Sort
 - Add Two Numbers (Linked List Digits) – 🏆 Google-Level
-- -Copy Linked List with Random Pointer (Meta/Google)
+-Copy Linked List with Random Pointer (Meta/Google)
+-  Flatten Multi-Level Doubly Linked List
 
 ---
 
@@ -51,13 +52,14 @@ To master the Linked List data structure from the ground up — covering everyth
 | June 28    | Palindrome, loop removal, merge lists, intersection |
 | June 29    | Merge Sort  |
 | June 30    | Add Two Numbers implementation ,Copy Linked List with Random Pointer (Meta/Google)|
+| July  01   | Flatten Multi-Level Doubly Linked List  |
 
 ---
 
 ## 🚀 Upcoming Topics (Next Phase)
 
 
-- Flatten Multi-Level Doubly Linked List
+
 - Implement LRU Cache (HashMap + Linked List)
 - Reorder Linked List (Leetcode Hard)
 - Rotate Linked List
