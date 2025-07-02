@@ -31,6 +31,8 @@ To master the Linked List data structure from the ground up — covering everyth
 - Add Two Numbers (Linked List Digits) – 🏆 Google-Level
 -Copy Linked List with Random Pointer (Meta/Google)
 -  Flatten Multi-Level Doubly Linked List
+-  -- Implement LRU Cache (HashMap + Linked List)
+-  
 
 ---
 
@@ -42,6 +44,7 @@ To master the Linked List data structure from the ground up — covering everyth
 - 📘 Maintain clean, readable code with comments
 - 🔁 Push to GitHub daily to track learning consistency
 
+-
 ---
 
 ## 🗓️ Daily Progress Log
@@ -52,7 +55,8 @@ To master the Linked List data structure from the ground up — covering everyth
 | June 28    | Palindrome, loop removal, merge lists, intersection |
 | June 29    | Merge Sort  |
 | June 30    | Add Two Numbers implementation ,Copy Linked List with Random Pointer (Meta/Google)|
-| July  01   | Flatten Multi-Level Doubly Linked List  |
+| July  01   | Flatten Multi-Level Doubly Linked List  ,- Implement LRU Cache (HashMap + Linked List)|
+| july  02   |- Reorder Linked List (Leetcode Hard)|
 
 ---
 
@@ -60,8 +64,7 @@ To master the Linked List data structure from the ground up — covering everyth
 
 
 
-- Implement LRU Cache (HashMap + Linked List)
-- Reorder Linked List (Leetcode Hard)
+
 - Rotate Linked List
 - Reverse Nodes in K-Groups
 - Partition List Around a Value
